@@ -1,8 +1,8 @@
 # Impressions AI
 
-Molly Godfrey's Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.
+The Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.
 
-This repository is a plugin marketplace for **Claude** and **ChatGPT**, built from a private source. It holds only what each app installs: a manifest, the Impressions AI connector, and short skills that tell your AI when to use it. Molly's method itself is served by Impressions AI to signed-in members.
+This repository is a plugin marketplace for **Claude** and **ChatGPT**, built from a private source. It holds only what each app installs: a manifest, the Impressions AI connector, and short skills that tell your AI when to use it. The Impressions method itself is served by Impressions AI to signed-in members.
 
 | Folder | For |
 |---|---|

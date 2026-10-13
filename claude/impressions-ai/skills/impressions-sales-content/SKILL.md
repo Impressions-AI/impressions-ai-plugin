@@ -1,6 +1,6 @@
 ---
 name: impressions-sales-content
-description: Use when a member wants to write, sharpen, or get feedback on a LinkedIn sales post with Molly Godfrey's Impressions method: a client story or transformation, a point of view on their offer, handling an objection, or a clear invitation to work with them, without sounding salesy. Also when they ask for sales hooks or a stronger call to action.
+description: Use when a member wants to write, sharpen, or get feedback on a LinkedIn sales post with the Impressions method: a client story or transformation, a point of view on their offer, handling an objection, or a clear invitation to work with them, without sounding salesy. Also when they ask for sales hooks or a stronger call to action.
 ---
 
 # Sales Content posts (Impressions method)

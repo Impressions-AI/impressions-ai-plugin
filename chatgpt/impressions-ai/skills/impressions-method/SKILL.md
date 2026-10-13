@@ -1,11 +1,11 @@
 ---
 name: impressions-method
-description: Use when a member wants help with LinkedIn content using Molly Godfrey's Impressions method (Impressions AI), or isn't sure which kind of post to write. Covers the three post types (thought leadership, personal story, sales content), choosing between them, writing or revising a draft, finding hooks, and checking a finished post against the Post-Format Checklist. Use it whenever the member mentions Impressions, Molly, or the method, or asks for a LinkedIn post and has this plugin installed.
+description: Use when a member wants help with LinkedIn content using the Impressions method (Impressions AI), or isn't sure which kind of post to write. Covers the three post types (thought leadership, personal story, sales content), choosing between them, writing or revising a draft, finding hooks, and checking a finished post against the Post-Format Checklist. Use it whenever the member mentions Impressions or the method, or asks for a LinkedIn post and has this plugin installed.
 ---
 
 # The Impressions method
 
-Impressions AI serves Molly Godfrey's LinkedIn writing method from the Impressions AI server. The method itself (how to coach, structures, hooks, examples, the checklist) comes from the server's tools, always current. Don't write from memory of it: call the tools.
+Impressions AI serves the Impressions method for LinkedIn writing from the Impressions AI server. The method itself (how to coach, structures, hooks, examples, the checklist) comes from the server's tools, always current. Don't write from memory of it: call the tools.
 
 ## Post types
 

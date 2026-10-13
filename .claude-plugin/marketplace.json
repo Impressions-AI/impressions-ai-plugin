@@ -4,12 +4,12 @@
     "name": "Sayla",
     "url": "https://sayla.co"
   },
-  "description": "Molly Godfrey's Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.",
+  "description": "The Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.",
   "plugins": [
     {
       "name": "impressions-ai",
       "source": "./claude/impressions-ai",
-      "description": "Molly Godfrey's Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with."
+      "description": "The Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with."
     }
   ]
 }

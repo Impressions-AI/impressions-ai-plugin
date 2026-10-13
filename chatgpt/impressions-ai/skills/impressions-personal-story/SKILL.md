@@ -1,6 +1,6 @@
 ---
 name: impressions-personal-story
-description: Use when a member wants to write, polish, or get feedback on a LinkedIn personal story post with Molly Godfrey's Impressions method: turning a moment from their life or work into a story that connects emotionally and links back to their audience. Also when they want to share something vulnerable with good boundaries, or ask for story hooks.
+description: Use when a member wants to write, polish, or get feedback on a LinkedIn personal story post with the Impressions method: turning a moment from their life or work into a story that connects emotionally and links back to their audience. Also when they want to share something vulnerable with good boundaries, or ask for story hooks.
 ---
 
 # Personal Story posts (Impressions method)

@@ -1,6 +1,6 @@
 ---
 name: impressions-thought-leadership
-description: Use when a member wants to write, tighten, or get feedback on a LinkedIn thought leadership post with Molly Godfrey's Impressions method: sharing their point of view, a pattern they see in their field, a belief to challenge, or a practical insight that builds authority. Also when they bring notes or a transcript to turn into an insight post, or ask for thought leadership hooks.
+description: Use when a member wants to write, tighten, or get feedback on a LinkedIn thought leadership post with the Impressions method: sharing their point of view, a pattern they see in their field, a belief to challenge, or a practical insight that builds authority. Also when they bring notes or a transcript to turn into an insight post, or ask for thought leadership hooks.
 ---
 
 # Thought Leadership posts (Impressions method)

@@ -1,7 +1,7 @@
 {
   "name": "impressions-ai",
   "version": "0.1.0",
-  "description": "Molly Godfrey's Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.",
+  "description": "The Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.",
   "author": {
     "name": "Molly Godfrey",
     "url": "https://mollygodfrey.com"
