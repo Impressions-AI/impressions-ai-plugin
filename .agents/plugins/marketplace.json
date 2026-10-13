@@ -1,0 +1,20 @@
+{
+  "name": "impressions-ai",
+  "interface": {
+    "displayName": "Impressions AI"
+  },
+  "plugins": [
+    {
+      "name": "impressions-ai",
+      "source": {
+        "source": "local",
+        "path": "./chatgpt/impressions-ai"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

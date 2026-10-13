@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "impressions-ai",
+  "version": "0.1.0",
+  "description": "Molly Godfrey's Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.",
+  "author": {
+    "name": "Molly Godfrey",
+    "url": "https://mollygodfrey.com"
+  },
+  "homepage": "https://impressionsai.sayla.dev/welcome",
+  "repository": "https://github.com/Impressions-AI/impressions-ai-plugin",
+  "license": "UNLICENSED",
+  "keywords": [
+    "linkedin",
+    "writing",
+    "personal-brand",
+    "thought-leadership",
+    "personal-story",
+    "sales-content",
+    "impressions"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Impressions AI",
+        "shortDescription": "Molly's LinkedIn method",
+        "longDescription": "Molly Godfrey's Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.",
+        "developerName": "Sayla",
+        "category": "Productivity"
+      }
+    }
+  }
+}

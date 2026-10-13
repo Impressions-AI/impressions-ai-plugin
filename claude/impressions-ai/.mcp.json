@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "impressions-ai": {
+      "type": "http",
+      "url": "https://impressionsai.sayla.dev/mcp"
+    }
+  }
+}
