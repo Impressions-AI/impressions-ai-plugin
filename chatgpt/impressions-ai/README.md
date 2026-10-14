@@ -20,4 +20,4 @@ Members: sign in at **https://impressionsai.sayla.dev/welcome** for step-by-step
 
 Connecting asks you to sign in with the email on your Impressions membership. A code is emailed to active members only.
 
-Version 0.2.0.
+Version 0.2.1.
