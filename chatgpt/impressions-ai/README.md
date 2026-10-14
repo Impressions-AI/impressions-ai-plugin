@@ -2,7 +2,7 @@
 
 The Impressions method for LinkedIn posts (thought leadership, personal stories, sales content) in Claude and ChatGPT. For Impressions members: sign in with the email you were invited to Notion with.
 
-This repository is a plugin marketplace for **Claude** and **ChatGPT**, built from a private source. It holds only what each app installs: a manifest, the Impressions AI connector, and short skills that tell your AI when to use it. The Impressions method itself is served by Impressions AI to signed-in members.
+This repository is a plugin marketplace for **Claude** and **ChatGPT**, built from a private source. It holds only what each app installs: a manifest, the Impressions AI connector, and one short skill that tells your AI to use it. The Impressions method itself is served by Impressions AI to signed-in members.
 
 | Folder | For |
 |---|---|
@@ -20,4 +20,4 @@ Members: sign in at **https://impressionsai.sayla.dev/welcome** for step-by-step
 
 Connecting asks you to sign in with the email on your Impressions membership. A code is emailed to active members only.
 
-Version 0.1.0.
+Version 0.2.0.
