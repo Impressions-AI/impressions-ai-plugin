@@ -25,4 +25,4 @@ Connecting asks you to sign in with the email on your Impressions membership. A 
 - **Claude:** keep the marketplace's auto-update on and new versions arrive by themselves.
 - **ChatGPT desktop app:** Settings → Plugins → Marketplace, then **Upgrade** beside Impressions AI.
 
-Version 0.2.2.
+Version 0.4.0.
