@@ -11,7 +11,7 @@ This repository is a plugin marketplace for **Claude** and **ChatGPT**, built fr
 
 ## Install
 
-Members: sign in at **https://impressionsai.sayla.dev/welcome** for step-by-step setup with screenshots.
+Members: sign in at **https://impressionscommunity.ai/welcome** for step-by-step setup with screenshots.
 
 - **Claude** (claude.ai or the desktop app): Customize → Plugins → Add → Add marketplace → Add from a repository, enter `Impressions-AI/impressions-ai-plugin`, then install **Impressions AI** and connect it from its Connectors tab.
 - **Claude Code:** `/plugin marketplace add Impressions-AI/impressions-ai-plugin`, then `/plugin install impressions-ai@impressions-ai`, then `/mcp` to connect.
@@ -25,4 +25,4 @@ Connecting asks you to sign in with the email on your Impressions membership. A 
 - **Claude:** keep the marketplace's auto-update on and new versions arrive by themselves.
 - **ChatGPT desktop app:** Settings → Plugins → Marketplace, then **Upgrade** beside Impressions AI.
 
-Version 0.4.0.
+Version 0.4.1.

@@ -16,10 +16,10 @@ The other Impressions AI skills in this plugin are ready-made ways to work: find
 ## About Impressions AI, and where to get help
 
 If the member asks what Impressions AI is or how to use it, use the about-impressions-ai skill. Without it, call `list_post_types` and name the post types, say they can just ask for help with a post or start from one of the Impressions AI skills, and give these:
-- Help center, for setup and answers: https://impressionsai.sayla.dev/help
+- Help center, for setup and answers: https://impressionscommunity.ai/help
 - Slack, to ask the Impressions community or the team: https://impressions-linkedin.slack.com
-- The Toolbox shows how a post, banner or photo will look before they post it. Use the preview tools here in the chat (`preview_post`, `open_preview_tool`) when they're available. Give the web version, https://impressionsai.sayla.dev/toolbox, only if the member asks for it.
+- The Toolbox shows how a post, banner or photo will look before they post it. Use the preview tools here in the chat (`preview_post`, `open_preview_tool`) when they're available. Give the web version, https://impressionscommunity.ai/toolbox, only if the member asks for it.
 
 ## If the tools aren't there
 
-Don't write the post from memory. Tell the member Impressions AI isn't connected: in Claude, connect it from the plugin's Connectors tab; in ChatGPT, from the plugin. They sign in with the email they were invited to the Impressions Notion with. Setup steps are at https://impressionsai.sayla.dev/welcome.
+Don't write the post from memory. Tell the member Impressions AI isn't connected: in Claude, connect it from the plugin's Connectors tab; in ChatGPT, from the plugin. They sign in with the email they were invited to the Impressions Notion with. Setup steps are at https://impressionscommunity.ai/welcome.
