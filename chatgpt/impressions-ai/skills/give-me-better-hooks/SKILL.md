@@ -13,6 +13,25 @@ Call the Impressions AI tool `get_skill` with `name: "give-me-better-hooks"`, an
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "idea_or_draft",
+    "description": "Your idea, draft or current first line",
+    "required": true
+  },
+  {
+    "name": "type",
+    "description": "The post type",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **Hooks for a new idea:** Give me hook options for a post about [my idea]. Use the Impressions hook styles for [thought leadership / personal story / sales content].

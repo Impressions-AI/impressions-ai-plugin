@@ -15,6 +15,20 @@ Call the Impressions AI tool `get_skill` with `name: "write-a-thought-leadership
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "idea",
+    "description": "The idea or opinion",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **A belief you'd defend:** Most people in my field say [common advice]. I think [my view]. Help me turn that into a thought leadership post.

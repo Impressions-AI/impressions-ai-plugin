@@ -13,6 +13,20 @@ Call the Impressions AI tool `get_skill` with `name: "plan-my-week"`, and as `in
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "whats_happening",
+    "description": "What's been going on in your work",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **One of each type:** Help me plan a week of LinkedIn posts: one thought leadership, one personal story and one sales content. My work is [what I do] and my ideal client is [who]. Suggest an idea for each.

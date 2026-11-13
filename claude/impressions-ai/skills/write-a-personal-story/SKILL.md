@@ -15,6 +15,20 @@ Call the Impressions AI tool `get_skill` with `name: "write-a-personal-story"`, 
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "moment",
+    "description": "The moment, in a line or two",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **A moment that taught you something:** Help me turn this moment from my career into a personal story post: [what happened]. Ask me questions to find the lesson.

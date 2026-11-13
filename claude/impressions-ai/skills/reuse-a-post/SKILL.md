@@ -13,6 +13,25 @@ Call the Impressions AI tool `get_skill` with `name: "reuse-a-post"`, and as `in
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "post",
+    "description": "The post you've written",
+    "required": true
+  },
+  {
+    "name": "to_type",
+    "description": "The post type to turn it into",
+    "required": true
+  }
+]
+```
+
 ## How members ask for it
 
 - **Story to sales:** Here's a personal story post I wrote: [paste post]. Turn it into a sales content post about [my offer].

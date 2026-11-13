@@ -13,6 +13,14 @@ Call the Impressions AI tool `get_skill` with `name: "about-impressions-ai"`, an
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[]
+```
+
 ## How members ask for it
 
 - **Get started:** Tell me what Impressions AI can do and how to get started.

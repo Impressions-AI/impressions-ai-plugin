@@ -13,6 +13,25 @@ Call the Impressions AI tool `get_skill` with `name: "break-down-my-post"`, and 
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "type",
+    "description": "The post type",
+    "required": false
+  },
+  {
+    "name": "post",
+    "description": "Your draft",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **Map a draft:** Show me how this draft is built, section by section: [my draft]

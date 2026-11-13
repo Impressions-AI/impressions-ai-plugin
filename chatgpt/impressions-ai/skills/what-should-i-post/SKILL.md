@@ -13,6 +13,30 @@ Call the Impressions AI tool `get_skill` with `name: "what-should-i-post"`, and 
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "what_i_do",
+    "description": "What you do",
+    "required": false
+  },
+  {
+    "name": "ideal_client",
+    "description": "Who you help",
+    "required": false
+  },
+  {
+    "name": "type",
+    "description": "A post type, if you have one in mind",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **From scratch:** I need post ideas. I'm a [what you do] and I help [who]. Ask me a few questions first.

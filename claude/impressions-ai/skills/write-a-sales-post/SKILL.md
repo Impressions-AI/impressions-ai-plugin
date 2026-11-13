@@ -15,6 +15,25 @@ Call the Impressions AI tool `get_skill` with `name: "write-a-sales-post"`, and 
 
 If the Impressions AI tools aren't there, follow "If the tools aren't there" in the impressions-ai skill.
 
+## Inputs
+
+Use these exact keys inside `inputs` for `get_skill`. Fill values from the conversation; omit optional values the member has not supplied. Ask only for required information missing from the conversation.
+
+```json
+[
+  {
+    "name": "offer",
+    "description": "What you're offering",
+    "required": false
+  },
+  {
+    "name": "result",
+    "description": "A client result you can share",
+    "required": false
+  }
+]
+```
+
 ## How members ask for it
 
 - **From a result:** Help me turn a client win into a sales content post. The result: [what changed]. Keep the client anonymous.
