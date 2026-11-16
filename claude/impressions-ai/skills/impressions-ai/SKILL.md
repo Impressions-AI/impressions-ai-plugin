@@ -26,7 +26,7 @@ If the member asks what Impressions AI is or how to use it, use the about-impres
 
 ## If the tools aren't there
 
-Don't write the post from memory. Tell the member Impressions AI isn't connected: in Claude, connect it from the plugin's Connectors tab; in ChatGPT, from the plugin. They sign in with the email they were invited to the Impressions Notion with. Setup steps are at https://impressionscommunity.ai/welcome.
+Don't write the post from memory. Tell the member Impressions AI isn't connected: in Claude, connect it from the plugin's Connectors tab; in ChatGPT, from the plugin. They sign in with the email they were invited to the Impressions Notion with. Setup steps are at https://impressionscommunity.ai/help.
 
 
 ## Base instructions
